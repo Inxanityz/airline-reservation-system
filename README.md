@@ -21,4 +21,4 @@ A command-line seat booking system written in C, split across multiple source fi
 
 ## Build and Run
 make
-./airline
+./ars
